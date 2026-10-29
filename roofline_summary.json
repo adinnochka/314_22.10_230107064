@@ -1,0 +1,19 @@
+{
+    "student_id": "230107064",
+    "kernel": "four-neighbour 2D stencil with reduction",
+    "matrix_n": 1024,
+    "flops_per_cell": 4,
+    "model_bytes_per_cell": 32,
+    "theoretical_arithmetic_intensity_flops_per_byte": 0.125,
+    "peak_memory_bandwidth_gbps": null,
+    "peak_compute_gflops": null,
+    "memory_roof_gflops": null,
+    "classification": "Undetermined: hardware ceilings not supplied",
+    "strong_baseline_seconds": 0.6459258999966551,
+    "positive_empirical_serial_fractions": [
+        0.9153060745439439,
+        0.9855642884310973,
+        1.1066199256401952
+    ],
+    "notes": "Timing includes Windows process-pool startup and IPC overhead. The traffic model counts four logical double-precision neighbour reads per output cell; actual DRAM traffic and NumPy temporary allocations may differ due to caching. Supply independently verified hardware bandwidth and compute ceilings before interpreting the Roofline classification."
+}
