@@ -1,0 +1,18 @@
+{
+    "student_id": "230107064",
+    "matrix_size": 1024,
+    "seed": 34278,
+    "repetitions": 5,
+    "execution_times_seconds": [
+        0.03507559999707155,
+        0.06604480001260526,
+        0.0260065000038594,
+        0.04348369999206625,
+        0.028626899991650134
+    ],
+    "median_time_seconds": 0.03507559999707155,
+    "total_flops": 2147483648,
+    "performance_gflops": 61.22443089153978,
+    "checksum": 268541190.5965864,
+    "method": "NumPy matrix multiplication"
+}
