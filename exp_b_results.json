@@ -1,0 +1,23 @@
+[
+  {
+    "workers": 1,
+    "runtime_seconds": 12.639592899999116,
+    "speedup": 1.0,
+    "karp_flatt": null,
+    "final_counter": 2000000
+  },
+  {
+    "workers": 2,
+    "runtime_seconds": 32.73680399998557,
+    "speedup": 0.38609733864077533,
+    "karp_flatt": 4.180040885650337,
+    "final_counter": 2000000
+  },
+  {
+    "workers": 4,
+    "runtime_seconds": 36.95532559999265,
+    "speedup": 0.3420235837402994,
+    "karp_flatt": 3.565033319492986,
+    "final_counter": 2000000
+  }
+]
