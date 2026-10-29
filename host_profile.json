@@ -1,0 +1,36 @@
+{
+    "student_id": "230107064",
+    "cpu": {
+        "model": "AMD Ryzen 7 5800HS with Radeon Graphics        ",
+        "manufacturer": "AuthenticAMD",
+        "architecture": "AMD64",
+        "microarchitecture": "Zen 3",
+        "max_clock_mhz": 3201,
+        "physical_cores": 8,
+        "logical_cores": 16
+    },
+    "cache": {
+        "l1_reported_kb": 512,
+        "l1_data_kb": 256,
+        "l2_kb": 4096,
+        "l3_kb": 16384,
+        "cache_line_bytes": 64,
+        "note": "Windows CIM L1 value may combine instruction and data cache. L1 data cache must be verified separately."
+    },
+    "operating_system": {
+        "name": "Windows",
+        "release": "11",
+        "version": "10.0.26300",
+        "kernel": "10.0.26300",
+        "platform": "Windows-11-10.0.26300-SP0"
+    },
+    "python": {
+        "version": "3.14.0",
+        "implementation": "CPython",
+        "executable": [
+            "tags/v3.14.0:ebf955d",
+            "Oct  7 2025 10:15:03"
+        ],
+        "psutil_version": "7.2.2"
+    }
+}
