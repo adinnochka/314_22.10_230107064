@@ -1,0 +1,26 @@
+[
+  {
+    "workers": 1,
+    "runtime_seconds": 1.614361399988411,
+    "speedup": 1.0,
+    "efficiency_percent": 100.0,
+    "karp_flatt": null,
+    "final_counter": 20000000
+  },
+  {
+    "workers": 2,
+    "runtime_seconds": 1.1478622000140604,
+    "speedup": 1.4064069711230462,
+    "efficiency_percent": 70.32034855615231,
+    "karp_flatt": 0.4220634859360495,
+    "final_counter": 20000000
+  },
+  {
+    "workers": 4,
+    "runtime_seconds": 0.7685223000007682,
+    "speedup": 2.1006044977312923,
+    "efficiency_percent": 52.515112443282305,
+    "karp_flatt": 0.3014045884284111,
+    "final_counter": 20000000
+  }
+]
